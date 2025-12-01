@@ -1,0 +1,25 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": [
+    "1",
+    "2",
+    "3"
+  ],
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-nrdl-alz-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "14563f67-00f5-4532-815e-c0994483f023",
+  "IDENTITY_SUBSCRIPTION_ID": "accbdc8b-f02a-4cff-bcfc-660b4eb73217",
+  "LOCATION": "swedencentral",
+  "LOGGING_RESOURCE_GROUP": "rg-nrdl-alz-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "9bbb44cb-ed3a-485b-bb89-3ac91bdf3319",
+  "NETWORK_TYPE": "none",
+  "MANAGEMENT_GROUP_ID": "nrdl-alz",
+  "PREFIX": "nrdl-alz",
+  "RELEASE_VERSION": "v0.23.2",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "SECONDARYLOCATION": "westeurope",
+  "SECURITY_SUBSCRIPTION_ID": "677f21ab-db02-4943-aa0a-d690b36d2b9d"
+}
